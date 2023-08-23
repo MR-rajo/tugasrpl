@@ -1,0 +1,57 @@
+.judul{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+}
+
+.judul1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.judul2{
+    color: white;
+    background-color: blue;
+}
+
+.paragraf{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.p1{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+}
+
+.pertama{
+    color: blue;
+    margin-top: 15px;
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+}
+
+.kedua{
+    color: red;
+    background-color: salmon;
+    margin-top: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+}
+
+.ketiga{
+    color: green;
+    background-color: yellowgreen;
+    margin-top: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+}
+
+.last{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.last2{
+    color: crimson;
+}
